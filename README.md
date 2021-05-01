@@ -1,6 +1,8 @@
 # Lan Tap
 This repo contains the modified version of the Throwing Star LAN TAP to use the generic RJ45 connectors I bought from Ebay.
 
+![](./assembly-photo.jpg)
+
 ## Original README
 
 Throwing Star LAN TAP
