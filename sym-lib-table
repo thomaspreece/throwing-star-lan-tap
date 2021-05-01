@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name throwing-star-rescue)(type Legacy)(uri ${KIPRJMOD}/throwing-star-rescue.lib)(options "")(descr ""))
+)
